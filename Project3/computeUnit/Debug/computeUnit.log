@@ -1,0 +1,26 @@
+﻿  Process "Grammar.y" bison file
+  Process "Grammar.l" flex file
+  Grammar.flex.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\stdint.h(49,1): warning C4005: 'INT8_MIN': macro redefinition
+C:\Users\PurpleUnicorn\Documents\compilers1\Project3\computeUnit\Grammar.flex.cpp(59): message : see previous definition of 'INT8_MIN'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\stdint.h(50,1): warning C4005: 'INT16_MIN': macro redefinition
+C:\Users\PurpleUnicorn\Documents\compilers1\Project3\computeUnit\Grammar.flex.cpp(62): message : see previous definition of 'INT16_MIN'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\stdint.h(51,1): warning C4005: 'INT32_MIN': macro redefinition
+C:\Users\PurpleUnicorn\Documents\compilers1\Project3\computeUnit\Grammar.flex.cpp(65): message : see previous definition of 'INT32_MIN'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\stdint.h(53,1): warning C4005: 'INT8_MAX': macro redefinition
+C:\Users\PurpleUnicorn\Documents\compilers1\Project3\computeUnit\Grammar.flex.cpp(68): message : see previous definition of 'INT8_MAX'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\stdint.h(54,1): warning C4005: 'INT16_MAX': macro redefinition
+C:\Users\PurpleUnicorn\Documents\compilers1\Project3\computeUnit\Grammar.flex.cpp(71): message : see previous definition of 'INT16_MAX'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\stdint.h(55,1): warning C4005: 'INT32_MAX': macro redefinition
+C:\Users\PurpleUnicorn\Documents\compilers1\Project3\computeUnit\Grammar.flex.cpp(74): message : see previous definition of 'INT32_MAX'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\stdint.h(57,1): warning C4005: 'UINT8_MAX': macro redefinition
+C:\Users\PurpleUnicorn\Documents\compilers1\Project3\computeUnit\Grammar.flex.cpp(77): message : see previous definition of 'UINT8_MAX'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\stdint.h(58,1): warning C4005: 'UINT16_MAX': macro redefinition
+C:\Users\PurpleUnicorn\Documents\compilers1\Project3\computeUnit\Grammar.flex.cpp(80): message : see previous definition of 'UINT16_MAX'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\stdint.h(59,1): warning C4005: 'UINT32_MAX': macro redefinition
+C:\Users\PurpleUnicorn\Documents\compilers1\Project3\computeUnit\Grammar.flex.cpp(83): message : see previous definition of 'UINT32_MAX'
+  Grammar.tab.cpp
+C:\Users\PurpleUnicorn\Documents\compilers1\Project3\computeUnit\Grammar.tab.cpp(210,7): warning C4065: switch statement contains 'default' but no 'case' labels
+  main.cpp
+  Generating Code...
+  computeUnit.vcxproj -> C:\Users\PurpleUnicorn\Documents\compilers1\Project3\Debug\computeUnit.exe
